@@ -1,6 +1,6 @@
 # CancerMicroBiome_Reanalyzed
 
-These are the supplementary files and tables for our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.07.28.550993v1), which has now been published on [mBio](https://journals.asm.org/eprint/DPMCA3IXUZFFDUIBDZBB/full) .
+These are the supplementary files and tables for our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.07.28.550993v1), which has now been published on [mBio](https://journals.asm.org/eprint/DPMCA3IXUZFFDUIBDZBB/full).
 We are posting the files here because some of them are too large for the journal to take as supplements.
 
 For those interested in the code, all of our methods are based on free, open-source software. We ran our analysis with default KrakenUniq [1] parameters against a curated Kraken database [2] extended from EuPathDB [3], so it should be easy for others to replicate our results by following our Methods as described in the preprint.
